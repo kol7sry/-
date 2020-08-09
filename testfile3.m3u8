@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=100000,RESOLUTION=256x144,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-qd/623202208327489__v__.m3u8?_nc_rl=AfCKohKIRuueujDD&ms=m_CN&oh=5bf77712519708b4880932066aa079f2&oe=5F31CAC7
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-md/623202208327489__v__.m3u8?_nc_rl=AfBfTsMbW9EwvJIf&ms=m_CN&oh=05ae62a0317da4d018bd1b35468a0b25&oe=5F31DD0B
+#EXT-X-STREAM-INF:BANDWIDTH=250000,RESOLUTION=426x240,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-ld/623202208327489__v__.m3u8?_nc_rl=AfBO68smEsr5TWvl&ms=m_CN&oh=efa0102081e2780104bc3db4262391ca&oe=5F319198
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-hd1/623202208327489__v__.m3u8?_nc_rl=AfAlTZ9jWEYkW642&ms=m_CN&oh=97349eb1cdccf7ada829b19a15ff4a89&oe=5F31F67A
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-hd/623202208327489__v__.m3u8?_nc_rl=AfCr0xQ0JzGRRWM0&ms=m_CN&oh=47fb634366a39a1b82b5c6e818d87268&oe=5F319D24
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="English",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://video-bru2-1.xx.fbcdn.net/hvideo-prn-frc/_nc_ohc-tGpd1_4SdFoAX-0lqJ8/_nc_cat-110/v/rV7GkYDIfge-Og6-WTsIl/live-hls/live-qd/623202208327489__a__.m3u8?_nc_rl=AfDIhFnMLVFJG9MB&ms=m_CN&oh=34fb1442ccf17a12f797e1cd46eb96ce&oe=5F31E5B5"
